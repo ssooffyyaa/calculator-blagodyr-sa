@@ -1,0 +1,6 @@
+*.exe
+*.env
+*.o
+*.out
+googletest/
+build/
