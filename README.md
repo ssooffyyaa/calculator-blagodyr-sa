@@ -70,7 +70,7 @@ bash
 Редактировать
 clang-format -i main.c
 
-
+## PGP PUBLIC KEY BLOCK
 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
